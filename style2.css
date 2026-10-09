@@ -166,6 +166,10 @@ li:hover,
 /* CELULAR */
 @media (max-width: 768px) {
 
+    .nav {
+        padding: 0px;
+    }
+    
     .esquerda,
     .direita {
         display: none;
