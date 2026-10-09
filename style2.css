@@ -167,9 +167,14 @@ li:hover,
 @media (max-width: 768px) {
 
     .nav {
-        padding: 0px;
+        padding: 10px;
+        gap: 0px
     }
     
+    .logos_nav {
+        gap: 0px;
+    }
+
     .esquerda,
     .direita {
         display: none;
