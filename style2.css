@@ -184,16 +184,6 @@ li:hover,
         margin-left: 0;
         width: auto;
     }
-
-    .BR.SingIn {
-        margin-left: 10px;
-    }
-
-    .BR {
-        margin-left: -15%;
-        margin-right: 0px;
-    }
-
     .titulo {
         width: 100%;
         padding: 40px 20px;
@@ -205,6 +195,17 @@ li:hover,
         height: 35px;
         font-size: 14px
     }
+    .logos_nav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+}
+    .BR,.SingIn {
+    height: 30px;
+    width: auto;
+    margin: 0;
+}
 
     .principal {
         background-image: url("img/fundocelular.jpg");
