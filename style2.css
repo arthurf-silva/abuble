@@ -202,8 +202,9 @@ li:hover,
     .botao_principal {
         width: 33%;
         height: 35px;
-        font-size: 14px
-    }
+        font-size: 12px
+}
+    
     .logos_nav {
     display: flex;
     align-items: center;
